@@ -3,9 +3,9 @@
 
 ## Student Details
 
-**Name:** SWETHA R 
-**Register Number:** 212225100055 
-**Date:** 28/07/2026
+<b>Name:</b> SWETHA R<br>
+<b>Register Number:</b> 212225100055<br>
+<b>Date:</b> 28/07/2026
 
 ---
 
